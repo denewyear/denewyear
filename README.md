@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @denewyear
-- 👀 I’m interested in making the world better with the least amount of technology.
-- 🌱 I’m currently learning Database Fundamentals
-- 💞️ I’m looking to collaborate on anything but I have a huge interests in AI/Security
-- 📫 How to reach me is through my LinkedIn profile  
-- ⚡ Fun fact: I make a wondeful spaghetti 
+# Hi, I'm Daniel 👋
 
-<!---
-denewyear97/denewyear97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+Junior Software Engineer passionate about building efficient solutions with minimal complexity. Currently focused on cloud computing and exploring AI/Security applications.
+
+## 💼 Technical Skills
+- **Languages:** C++, TypeScript, Python
+- **Technologies:** [React, Node.js, RESTful APIs]
+- **Currently Learning:** Go
+
+
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/work-with-daniel)
+
+---
+💡 Open to collaboration on AI and Security projects
